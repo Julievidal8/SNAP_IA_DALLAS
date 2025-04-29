@@ -5,7 +5,7 @@ Interthalamic adhesion's mask on the DALLAS dataset
 Interthalamic adhesion's masks on the Dallas Lifespan Brain Study. 
 
 All associated T1w MRIs are publicly available: [https://openneuro.org/datasets/ds000030/versions/00016](https://openneuro.org/datasets/ds004856/versions/1.0.0)
-Those analysis follows a protocol named SNAP, which is in preparation. 
+Those analyses follow a protocol named SNAP, which is in preparation. 
 
 The IA_overlap_wave1_DALLAS.zip file contains all the IA's masks by subject. Those masks are the overlap of two raters' segmentation when the Dice coefficient was superior to 0.80, demonstrating high agreement. 
 
