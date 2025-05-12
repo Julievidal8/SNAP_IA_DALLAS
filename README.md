@@ -5,9 +5,6 @@ Citation: Vidal, J. P., ... & Barbeau, E. J. (in prep.) SNAP-IA: New standardize
 ![image](https://github.com/user-attachments/assets/efd2737d-d364-465e-80fd-dbe729bcd5e1)
 
 # SNAP_IA_DALLAS
-Interthalamic adhesion's mask on the DALLAS dataset
-
-# SNAP_IA_DALLAS
 Interthalamic adhesion's masks on the Dallas Lifespan Brain Study. 
 
 All associated T1w MRIs are publicly available: [https://openneuro.org/datasets/ds000030/versions/00016](https://openneuro.org/datasets/ds004856/versions/1.0.0)
